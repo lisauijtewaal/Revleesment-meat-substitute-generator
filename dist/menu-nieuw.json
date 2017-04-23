@@ -1,0 +1,411 @@
+{"recipes": [
+    {
+      "id": "1",
+      "name": "Bloemkool met tuinbonen",
+      "meal_type": "main_course",
+      "course": "Hoofdgerecht",
+      "allergens": [
+        {
+          "label": "Noten",
+          "key": "noten"
+        }
+      ],
+      "meat_info": "kip",
+      "dish_info": "hollands",
+      "image": "https://www.devegetarischeslager.nl/serverspecific/dvs/cache/img/f8153f0b96b76a6aa131b8c40443c541d8d06ef6/kipnuggetsbloemkool2-bewerkt-.jpg",
+      "ingredients": [
+        "Aardappel",
+        "Bloemkool",
+        "Kipnuggets",
+        "Tuinbonen"
+      ],
+      "replacements": [
+        "Vegatarische kipnuggets",
+        "Tuinbonen"
+      ],
+      "vitamines": [
+        "B1",
+        "B12"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Andijviestamppot van zoete aardappel met Kip-Shoarma",
+      "meal_type": "main_course",
+      "course": "Hoofdgerecht",
+      "allergens": [
+        {
+          "label": "Noten",
+          "key": "noten"
+        }
+      ],
+      "meat_info": "kip",
+      "dish_info": "hollands",
+      "image": "https://www.devegetarischeslager.nl/serverspecific/dvs/cache/img/9e017e5c2afd329e436165b6ec0d2f89b24ee92e/kipshoarmastamp-web.jpg",
+      "ingredients": [
+        "Aardappel",
+        "Andijvie",
+        "Kip-shoarma",
+        "Kerriepoeder"
+      ],
+      "replacements": [
+        "Vegatarische kipnuggets",
+        "Tuinbonen"
+      ],
+      "vitamines": [
+        "B1",
+        "B12"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Loempia met avocado en Vegetarische Bacon",
+      "course": "Voorgerecht",
+      "meal_type": "pre-course",
+      "allergens": [
+        {
+          "label": "Gluten",
+          "key": "gluten"
+        }
+      ],
+      "meat_info": "varken",
+      "dish_info": "aziatisch",
+      "image": "https://www.devegetarischeslager.nl/serverspecific/dvs/cache/img/6bbb2d00bae55613935437746b7a98b4f5eaa5f5/loempia-bewerkt-.jpg",
+      "ingredients": [
+        "Avacado",
+        "Vegatarische spekjes",
+        "Loempiavellen",
+        "Cheddar"
+      ],
+      "replacements": [
+        "Vegatarische gehakt",
+        "Avacado"
+      ],
+      "vitamines": [
+        "B12"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Oranje Lasagne met Rul Gehackt",
+      "meal_type": "main_course",
+      "course": "Hoofdgerecht",
+      "allergens": [
+      ],
+      "meat_info": "rund",
+      "dish_info": "italiaans",
+      "image": "https://www.devegetarischeslager.nl/serverspecific/dvs/cache/img/337a128631ace323e36ed8f489a6f98cd652b318/Oranje-Lasagne2.jpg",
+      "ingredients": [
+        "Uien",
+        "Wortel",
+        "Knoflook",
+        "Cheddar"
+      ],
+      "replacements": [
+        "Vegatarische gehakt",
+        "Avacado"
+      ],
+      "vitamines": [
+        "B12"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Pasta aglio e olio met Vegetarische Bacon",
+      "meal_type": "main_course",
+      "course": "Hoofdgerecht",
+      "allergens": [
+      ],
+      "meat_info": "varken",
+      "dish_info": "italiaans",
+      "image": "https://www.devegetarischeslager.nl/serverspecific/dvs/cache/img/5add7f1b28d6a16b04e494ed1d11c450568c4975/w-pastaaglioolio.jpg",
+      "ingredients": [
+        "Vegatarische spekjes",
+        "Tagliatelle",
+        "Knoflook",
+        "Citroen"
+      ],
+      "replacements": [
+        "Vegatarische spekjes"
+      ],
+      "vitamines": [
+        "D",
+        "B12"
+      ]
+    },{
+      "id": "6",
+      "name": "Frisse Bietensalade met Speckjes",
+      "meal_type": "pre-course",
+      "course": "Voorgerecht",
+      "allergens": [
+      ],
+      "meat_info": "varken",
+      "dish_info": "hollands",
+      "image": "https://www.devegetarischeslager.nl/serverspecific/dvs/cache/img/fd49f29376a5df2e2511886745a1e5ecc4958740/bietensalade2.jpg",
+      "ingredients": [
+        "Vegatarische spekjes",
+        "Bieten",
+        "Ijsbergsla",
+        "Citroen"
+      ],
+      "replacements": [
+        "Vegatarische spekjes"
+      ],
+      "vitamines": [
+        "D",
+        "B12"
+      ]
+    },{
+      "id": "7",
+      "name": "Ananaschutney met Snackballetjes",
+      "meal_type": "main_course",
+      "course": "Hoofdgerecht",
+      "allergens": [
+      ],
+      "meat_info": "rund",
+      "dish_info": "aziatisch",
+      "image": "https://www.devegetarischeslager.nl/serverspecific/dvs/cache/img/265c908345ec6fd9ffa5d765cb723963fce6076a/snackballetjesananas-bewerkt-.jpg",
+      "ingredients": [
+        "Ananas",
+        "Gember",
+        "Knoflook",
+        "Citroen"
+      ],
+      "replacements": [
+        "Vegatarische spekjes"
+      ],
+      "vitamines": [
+        "D",
+        "B12"
+      ]
+    },{
+      "id": "8",
+      "name": "Nasi met cashewnotensaus met Kipspiesjes",
+      "meal_type": "main_course",
+      "course": "Hoofdgerecht",
+      "allergens": [
+      ],
+      "meat_info": "kip",
+      "dish_info": "aziatisch",
+      "image": "https://www.devegetarischeslager.nl/serverspecific/dvs/cache/img/36c0e624b35b948aa81cf4295939f45fc368a75f/nasikip.jpg",
+      "ingredients": [
+        "Vegatarische kipstukjes",
+        "Nasi",
+        "Knoflook",
+        "Citroen"
+      ],
+      "replacements": [
+        "Vegatarische spekjes"
+      ],
+      "vitamines": [
+        "D",
+        "B12"
+      ]
+    },{
+      "id": "9",
+      "name": "Pastasalade met gepofte knoflook en Bacon",
+      "meal_type": "pre_course",
+      "course": "Voorgerecht",
+      "allergens": [
+      ],
+      "meat_info": "spek",
+      "dish_info": "italiaans",
+      "image": "https://www.devegetarischeslager.nl/serverspecific/dvs/cache/img/3f2dfe420d539f2caac75ec54b546f2c50b4b421/pastasaladebacon2-bewerkt-.jpg",
+      "ingredients": [
+        "Vegatarische spekjes",
+        "Tagliatelle",
+        "Knoflook",
+        "Citroen"
+      ],
+      "replacements": [
+        "Vegatarische spekjes"
+      ],
+      "vitamines": [
+        "D",
+        "B12"
+      ]
+    }
+  ],
+  "meat_replacements": [
+    {
+      "id": "5",
+      "name": "Vegatarische kipnuggets",
+      "maker": "Vegatarische Slager",
+      "percent": "92%",
+      "info":"En weer is De Vegetarische Slager haantje de voorste met een nieuwe plantaardige snack, Kipnuggets van 'Kip' die gegarandeerd geen leven heeft gehad. Waar niet mee gescharreld is, waar geen kip weet van heeft gehad, zonder dat er een haan naar hoeft te kraaien. Want de Kipnuggets zijn 100% plantaardig, terwijl ze nog leckerder zijn dan het origineel.",
+      "replaces": "kip",
+      "vitamines": [
+        "Energie (Kcal/Kj) 227/951",
+        "Vetten (g) 9,2",
+        "Verzadigde vetzuren 1,3",
+        "Vezels (g) 2,1",
+        "Suikers 1,2"
+      ],
+      "image": "https://cmgtcontent.ahold.com.kpnis.nl/cmgtcontent/media//001515400/000/001515410_001_387072_708.jpg",
+      "rate": "8"
+    }, {
+      "id": "5",
+      "name": "Vegetarisch gehakt",
+      "maker": "Vegatarische Slager",
+      "percent": "76%",
+      "info":"En weer is De Vegetarische Slager haantje de voorste met een nieuwe plantaardige snack, Kipnuggets van 'Kip' die gegarandeerd geen leven heeft gehad. Waar niet mee gescharreld is, waar geen kip weet van heeft gehad, zonder dat er een haan naar hoeft te kraaien. Want de Kipnuggets zijn 100% plantaardig, terwijl ze nog leckerder zijn dan het origineel.",
+      "replaces": "rund",
+      "vitamines": [
+        "Energie (Kcal/Kj) 227/951",
+        "Vetten (g) 9,2",
+        "Verzadigde vetzuren 1,3",
+        "Vezels (g) 2,1",
+        "Suikers 1,2"
+      ],
+      "image": "https://www.plus.nl/INTERSHOP/static/WFS/PLUS-Site/-/PLUS/nl_NL/product/L/760423.png",
+      "rate": "6"
+    },
+    {
+      "id": "6",
+      "name": "Vegatarische spekjes",
+      "percent": "92%",
+      "maker": "Vegatarische Slager",
+      "info":"En weer is De Vegetarische Slager haantje de voorste met een nieuwe plantaardige snack, Kipnuggets van 'Kip' die gegarandeerd geen leven heeft gehad. Waar niet mee gescharreld is, waar geen kip weet van heeft gehad, zonder dat er een haan naar hoeft te kraaien. Want de Kipnuggets zijn 100% plantaardig, terwijl ze nog leckerder zijn dan het origineel.",
+      "replaces": "varken",
+      "vitamines": [
+        "Energie (Kcal/Kj) 227/951",
+        "Vetten (g) 9,2",
+        "Verzadigde vetzuren 1,3",
+        "Vezels (g) 2,1",
+        "Suikers 1,2"
+      ],
+      "image": "https://www.ah.nl.kpnis.nl/static/product/AHI_434d50313930363930_1_LowRes_JPG.JPG",
+      "rate": "9"
+    },
+    {
+      "id": "7",
+      "name": "Vegatarische Bratwurst",
+      "maker": "Vegatarische Slager",
+      "percent": "44%",
+      "info":"En weer is De Vegetarische Slager haantje de voorste met een nieuwe plantaardige snack, Kipnuggets van 'Kip' die gegarandeerd geen leven heeft gehad. Waar niet mee gescharreld is, waar geen kip weet van heeft gehad, zonder dat er een haan naar hoeft te kraaien. Want de Kipnuggets zijn 100% plantaardig, terwijl ze nog leckerder zijn dan het origineel.",
+      "vitamines": [
+        "Energie (Kcal/Kj) 227/951",
+        "Vetten (g) 9,2",
+        "Verzadigde vetzuren 1,3",
+        "Vezels (g) 2,1",
+        "Suikers 1,2"
+      ],
+      "replaces": "varken",
+      "image": "https://www.ah.nl.kpnis.nl/static/product/AHI_434d50323232343838_1_LowRes_JPG.JPG",
+      "rate": "7"
+    }, {
+      "id": "8",
+      "name": "Vegatarische Balletjes",
+      "info":"En weer is De Vegetarische Slager haantje de voorste met een nieuwe plantaardige snack, Kipnuggets van 'Kip' die gegarandeerd geen leven heeft gehad. Waar niet mee gescharreld is, waar geen kip weet van heeft gehad, zonder dat er een haan naar hoeft te kraaien. Want de Kipnuggets zijn 100% plantaardig, terwijl ze nog leckerder zijn dan het origineel.",
+      "maker": "Tivall",
+      "percent": "74%",
+      "replaces": "rund",
+      "vitamines": [
+        "Energie (Kcal/Kj) 227/951",
+        "Vetten (g) 9,2",
+        "Verzadigde vetzuren 1,3",
+        "Vezels (g) 2,1",
+        "Suikers 1,2"
+      ],
+      "image": "https://mydutchvegansupermarket.files.wordpress.com/2016/06/tivall-vega-balletjes.jpg?w=450&h=450&crop=1",
+      "rate": "6"
+    }, {
+      "id": "9",
+      "name": "Boerenkool burgers",
+      "maker": "So Fine",
+      "percent": "92%",
+      "replaces": "geen-vlees",
+      "vitamines": [
+        "Energie (Kcal/Kj) 227/951",
+        "Vetten (g) 9,2",
+        "Verzadigde vetzuren 1,3",
+        "Vezels (g) 2,1",
+        "Suikers 1,2"
+      ],
+      "info":"En weer is De Vegetarische Slager haantje de voorste met een nieuwe plantaardige snack, Kipnuggets van 'Kip' die gegarandeerd geen leven heeft gehad. Waar niet mee gescharreld is, waar geen kip weet van heeft gehad, zonder dat er een haan naar hoeft te kraaien. Want de Kipnuggets zijn 100% plantaardig, terwijl ze nog leckerder zijn dan het origineel.",
+      "image": "http://www.vmt.nl/~/media/11E5BB044C4645FC8635D9E426F6D401.jpg",
+      "rate": "8"
+    }, {
+      "id": "10",
+      "name": "Vegatarische Bratwurst",
+      "maker": "vegatarische Slager",
+      "percent": "92",
+      "replaces": "varken",
+      "vitamines": [
+        "Energie (Kcal/Kj) 227/951",
+        "Vetten (g) 9,2",
+        "Verzadigde vetzuren 1,3",
+        "Vezels (g) 2,1",
+        "Suikers 1,2"
+      ],
+      "info":"En weer is De Vegetarische Slager haantje de voorste met een nieuwe plantaardige snack, Kipnuggets van 'Kip' die gegarandeerd geen leven heeft gehad. Waar niet mee gescharreld is, waar geen kip weet van heeft gehad, zonder dat er een haan naar hoeft te kraaien. Want de Kipnuggets zijn 100% plantaardig, terwijl ze nog leckerder zijn dan het origineel.",
+      "image": "https://www.ah.nl.kpnis.nl/static/product/AHI_434d50323232343838_1_LowRes_JPG.JPG",
+      "rate": "9"
+    }, {
+      "id": "11",
+      "name": "Vegatarische Bratwurst",
+      "percent": "82",
+      "maker": "vegatarische Slager",
+      "vitamines": [
+        "Energie (Kcal/Kj) 227/951",
+        "Vetten (g) 9,2",
+        "Verzadigde vetzuren 1,3",
+        "Vezels (g) 2,1",
+        "Suikers 1,2"
+      ],
+      "info":"En weer is De Vegetarische Slager haantje de voorste met een nieuwe plantaardige snack, Kipnuggets van 'Kip' die gegarandeerd geen leven heeft gehad. Waar niet mee gescharreld is, waar geen kip weet van heeft gehad, zonder dat er een haan naar hoeft te kraaien. Want de Kipnuggets zijn 100% plantaardig, terwijl ze nog leckerder zijn dan het origineel.",
+      "replaces": "varken",
+      "image": "https://www.ah.nl.kpnis.nl/static/product/AHI_434d50323232343838_1_LowRes_JPG.JPG",
+      "rate": "4"
+    },
+    {
+      "id": "12",
+      "name": "Vegatarische Kaasburger",
+      "maker": "Good bite",
+      "percent": "23",
+      "vitamines": [
+        "Energie (Kcal/Kj) 227/951",
+        "Vetten (g) 9,2",
+        "Verzadigde vetzuren 1,3",
+        "Vezels (g) 2,1",
+        "Suikers 1,2"
+      ],
+      "info":"En weer is De Vegetarische Slager haantje de voorste met een nieuwe plantaardige snack, Kipnuggets van 'Kip' die gegarandeerd geen leven heeft gehad. Waar niet mee gescharreld is, waar geen kip weet van heeft gehad, zonder dat er een haan naar hoeft te kraaien. Want de Kipnuggets zijn 100% plantaardig, terwijl ze nog leckerder zijn dan het origineel.",
+      "replaces": "geen-vlees",
+      "image": "http://www.goodbite.nl/wp-content/uploads/2014/02/007-Kaasburger-300x379.jpg",
+      "rate": "8"
+    },  {
+      "id": "13",
+      "name": "Vegatarische gegrilde stukjes",
+      "percent": "71",
+      "maker": "Tivall",
+      "vitamines": [
+        "Energie (Kcal/Kj) 227/951",
+        "Vetten (g) 9,2",
+        "Verzadigde vetzuren 1,3",
+        "Vezels (g) 2,1",
+        "Suikers 1,2"
+      ],
+      "info":"En weer is De Vegetarische Slager haantje de voorste met een nieuwe plantaardige snack, Kipnuggets van 'Kip' die gegarandeerd geen leven heeft gehad. Waar niet mee gescharreld is, waar geen kip weet van heeft gehad, zonder dat er een haan naar hoeft te kraaien. Want de Kipnuggets zijn 100% plantaardig, terwijl ze nog leckerder zijn dan het origineel.",
+      "replaces": "kip",
+      "image": "https://www.ah.nl.kpnis.nl/static/product/AHI_434d50303935323530_3_LowRes_JPG.JPG",
+      "rate": "8"
+    },  {
+      "id": "14",
+      "name": "Vegatarische Kipstukjes",
+      "maker": "Vegatarische Slager",
+      "percent": "64",
+      "vitamines": [
+        "Energie (Kcal/Kj) 227/951",
+        "Vetten (g) 9,2",
+        "Verzadigde vetzuren 1,3",
+        "Vezels (g) 2,1",
+        "Suikers 1,2"
+      ],
+      "info":"En weer is De Vegetarische Slager haantje de voorste met een nieuwe plantaardige snack, Kipnuggets van 'Kip' die gegarandeerd geen leven heeft gehad. Waar niet mee gescharreld is, waar geen kip weet van heeft gehad, zonder dat er een haan naar hoeft te kraaien. Want de Kipnuggets zijn 100% plantaardig, terwijl ze nog leckerder zijn dan het origineel.",
+      "replaces": "kip",
+      "image": "https://superscanner.nl/images/product/original/2/7/1/27182-39388-vegetarische-slager-kipstuckjes.5-400.jpeg",
+      "rate": "7"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  background-color: #f4b802;
+  transition: left 0.2s ease-in-out;
+  left: 0;
+  width: 100%;
+  position: absolute;
+  &.users-sidebar-visible {
+    left: 400px;
+  }
+}
+
+#dishes-container {
+  margin: 0 auto;
+  width: 80%;
+  overflow: visible;
+  display: flex;
+  display: -webkit-flex;
+  -webkit-flex-wrap: wrap; /* Safari 6.1+ */
+  flex-wrap: wrap;
+  -webkit-transform: translateZ(0);
+  -moz-transform: translateZ(0);
+  -ms-transform: translateZ(0);
+  -o-transform: translateZ(0);
+  transform: translateZ(0);
+  -webkit-font-smoothing: antialiased;
+  justify-content: center;
+
+}#meat-container {
+  margin: 0 auto;
+  width: 80%;
+  height: auto;
+  overflow: visible;
+  display: flex;
+  display: -webkit-flex;
+  -webkit-flex-wrap: wrap; /* Safari 6.1+ */
+  flex-wrap: wrap;
+  -webkit-transform: translateZ(0);
+  -moz-transform: translateZ(0);
+  -ms-transform: translateZ(0);
+  -o-transform: translateZ(0);
+  transform: translateZ(0);
+  -webkit-font-smoothing: antialiased;
+  justify-content: center;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+  font-size: 65px;
+  margin-top: 0px;
+
+
+}
+
+h2 {
+  text-align: center;
+  color: #245433;
+  font-family: Helvetica;
+  margin: 30px 8px 10px 8px;
+}
+
+h3{
+  color: white;
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+  font-size: 42px;
+  margin-top: 0px;
+}
